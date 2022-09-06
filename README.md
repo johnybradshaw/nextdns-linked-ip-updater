@@ -1,4 +1,4 @@
-# nextdns-ip-updater
+# nextdns-linked-ip-updater
 Update the Linked IP for [NextDNS*](https://nextdns.io/?from=pgbnyk5z) on a regular basis (every 15 minutes)
 
 ## Usage
