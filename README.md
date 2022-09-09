@@ -11,7 +11,7 @@ Set those as environment variables you pass during the setup of the container:
 docker run -d --name nextdns-linked-ip-updater \
 -e config_id=<config-id> \
 -e config_secret=<config-secret> \
-gchr.io/johnybradshaw/nextdns-linked-ip-updater
+ghcr.io/johnybradshaw/nextdns-linked-ip-updater
 ```
 
 ### Appendix
