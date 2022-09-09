@@ -8,10 +8,10 @@ Find your programmatic url from your config's Setup page, it will look something
 Set those as environment variables you pass during the setup of the container:
 
 ```bash
-docker run -d --name cron \
+docker run -d --name nextdns-linked-ip-updater \
 -e config_id=<config-id> \
 -e config_secret=<config-secret> \
-qazwsx\nextdns-ip-updater
+gchr.io/johnybradshaw/nextdns-linked-ip-updater
 ```
 
 ### Appendix
